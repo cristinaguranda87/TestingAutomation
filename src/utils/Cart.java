@@ -1,4 +1,4 @@
 package utils;
-public classCart{
+public class Cart{
   // FROM GITHUB
 }
